@@ -2,8 +2,7 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ethyel-Dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethyel-Dev&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ethyel-Dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
@@ -22,16 +21,13 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: ethyelangelo92@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/ethyelangeloprogramador/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/ethyel_angelo/">
       <img width="25" src="instagram.png">
     </a>
 </div>
