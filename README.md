@@ -30,3 +30,4 @@
     </a>
 </div>
   
+  ![Snake animation](https://github.com/Ethyel-Dev/Ethyel-Dev/blob/output/github-contribution-grid-snake.svg)
