@@ -22,7 +22,7 @@
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/ethyelangeloprogramador/">
-      <img width="25" src="[linkedin.svg](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)">
+      <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/ethyel_angelo/">
       <img width="25" src="instagram.png">
